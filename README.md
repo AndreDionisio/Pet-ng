@@ -1,5 +1,7 @@
 # RescuePet
+download this project and then move the folder quarkus-petclinic-master to another directory and follow the readme of that project first and then back to this project and execute the follow command line below:
 ng serve
+# Acess Project
 http://localhost:4200/dashboard
 
 # AngularTourOfHeroes Seed
