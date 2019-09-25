@@ -1,4 +1,10 @@
-# Quarkus PetClinic Application
+# Quarkus PetRescue Application
+
+mvn clean install
+mvn compile quarkus:dev
+http://localhost:8080/openapi-ui/
+
+# Quarkus PetClinic Application Seed
 
 > This repository contains the sources for my article 
 > `Achieving supersonic development speed with Quarkus - The holy grail of Developer productivity?`.        
